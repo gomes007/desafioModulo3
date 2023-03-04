@@ -1,0 +1,128 @@
+2023-02-19T22:35:33.547Z [store-api] error GET /proprietario - conn is not defined
+2023-02-19T22:37:15.467Z [store-api] error GET /proprietario - conn.release is not a function
+2023-02-19T22:37:39.031Z [store-api] error GET /proprietario - conn.release is not a function
+2023-02-19T22:37:40.741Z [store-api] error GET /proprietario - conn.release is not a function
+2023-02-19T22:42:17.093Z [store-api] error GET /proprietario - Table 'petshop.proprietario' doesn't exist
+2023-02-19T22:42:43.738Z [store-api] info GET /proprietario
+2023-02-19T23:02:34.855Z [store-api] info GET /proprietario
+2023-02-19T23:03:03.908Z [store-api] info GET /proprietario/2
+2023-02-19T23:04:54.335Z [store-api] error POST /proprietario - conn is not defined
+2023-02-19T23:07:10.336Z [store-api] info POST /proprietario - {"fieldCount":0,"affectedRows":1,"insertId":7,"info":"","serverStatus":2,"warningStatus":0}
+2023-02-19T23:09:16.674Z [store-api] error POST /proprietario - Cannot read properties of undefined (reading '0')
+2023-02-19T23:10:07.272Z [store-api] error POST /proprietario - Cannot read properties of undefined (reading '0')
+2023-02-19T23:11:15.009Z [store-api] info POST /proprietario - {"fieldCount":0,"affectedRows":1,"insertId":10,"info":"","serverStatus":2,"warningStatus":0}
+2023-02-19T23:12:40.344Z [store-api] error POST /proprietario - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RETURNING *' at line 1
+2023-02-19T23:13:30.135Z [store-api] error POST /proprietario - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RETURNING *' at line 1
+2023-02-19T23:13:47.805Z [store-api] error POST /proprietario - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RETURNING *' at line 1
+2023-02-19T23:27:10.674Z [store-api] info POST /proprietario - {"fieldCount":0,"affectedRows":1,"insertId":11,"info":"","serverStatus":2,"warningStatus":0}
+2023-02-19T23:27:41.047Z [store-api] info GET /proprietario
+2023-02-19T23:27:51.104Z [store-api] info DELETE /proprietario/8
+2023-02-19T23:27:55.809Z [store-api] info DELETE /proprietario/9
+2023-02-19T23:27:58.772Z [store-api] info DELETE /proprietario/10
+2023-02-19T23:28:01.514Z [store-api] info GET /proprietario
+2023-02-19T23:30:34.193Z [store-api] info GET /proprietario
+2023-02-19T23:32:36.705Z [store-api] info GET /proprietario/2
+2023-02-19T23:41:02.512Z [store-api] info PUT /proprietario - {"fieldCount":0,"affectedRows":0,"insertId":0,"info":"Rows matched: 0  Changed: 0  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":0}
+2023-02-19T23:41:09.731Z [store-api] info GET /proprietario/2
+2023-02-19T23:41:12.432Z [store-api] info GET /proprietario/2
+2023-02-19T23:41:25.786Z [store-api] info GET /proprietario
+2023-02-19T23:41:38.759Z [store-api] info PUT /proprietario - {"fieldCount":0,"affectedRows":0,"insertId":0,"info":"Rows matched: 0  Changed: 0  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":0}
+2023-02-19T23:41:42.474Z [store-api] info GET /proprietario
+2023-02-19T23:42:23.571Z [store-api] info PUT /proprietario - {"fieldCount":0,"affectedRows":0,"insertId":0,"info":"Rows matched: 0  Changed: 0  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":0}
+2023-02-19T23:42:53.283Z [store-api] info PUT /proprietario - {"fieldCount":0,"affectedRows":0,"insertId":0,"info":"Rows matched: 0  Changed: 0  Warnings: 0","serverStatus":2,"warningStatus":0,"changedRows":0}
+2023-02-19T23:50:16.409Z [store-api] error PUT /proprietario - Id, nome e telefone são obrigatórios
+2023-02-19T23:51:00.513Z [store-api] error PUT /proprietario - Id, nome e telefone são obrigatórios
+2023-02-19T23:51:19.196Z [store-api] error PUT /proprietario - Id, nome e telefone são obrigatórios
+2023-02-19T23:51:21.893Z [store-api] error PUT /proprietario - Id, nome e telefone são obrigatórios
+2023-02-19T23:51:28.008Z [store-api] error PUT /proprietario - Id, nome e telefone são obrigatórios
+2023-02-19T23:51:33.844Z [store-api] error PUT /proprietario - Id, nome e telefone são obrigatórios
+2023-02-19T23:52:13.337Z [store-api] error PUT /proprietario - Id, nome e telefone são obrigatórios
+2023-02-19T23:54:46.747Z [store-api] error PUT /proprietario - proprietarioRepository is not defined
+2023-02-19T23:56:49.266Z [store-api] info PUT /proprietario - false
+2023-02-19T23:56:54.398Z [store-api] error PUT /proprietario - Id, nome e telefone são obrigatórios
+2023-02-19T23:57:30.276Z [store-api] info PUT /proprietario - false
+2023-02-19T23:57:35.487Z [store-api] info GET /proprietario
+2023-02-20T00:15:23.879Z [store-api] info GET /animal
+2023-02-20T00:15:34.294Z [store-api] info GET /animal/2
+2023-02-20T00:19:33.164Z [store-api] error POST /animal - Nome e telefone são obrigatórios
+2023-03-04T02:09:49.215Z [store-api] info POST /proprietario - {"proprietarioId":1,"nome":"joao","telefone":"132"}
+2023-03-04T02:10:35.837Z [store-api] info PUT /proprietario - {"proprietarioId":1,"nome":"antonio","telefone":"321"}
+2023-03-04T02:10:45.581Z [store-api] info GET /proprietario
+2023-03-04T02:10:53.645Z [store-api] info POST /proprietario - {"proprietarioId":2,"nome":"joao","telefone":"132"}
+2023-03-04T02:10:56.316Z [store-api] info GET /proprietario
+2023-03-04T02:11:09.122Z [store-api] info GET /proprietario/:id
+2023-03-04T02:11:16.342Z [store-api] info DELETE /owner
+2023-03-04T02:11:19.323Z [store-api] info GET /proprietario
+2023-03-04T02:12:40.551Z [store-api] info POST /animal - {"animalId":1,"nome":"miau","tipo":"gato","proprietarioId":2}
+2023-03-04T02:13:19.693Z [store-api] info PUT /animal - {"animalId":1,"nome":"uau","tipo":"dog","proprietarioId":2}
+2023-03-04T02:13:29.608Z [store-api] info GET /animal
+2023-03-04T02:13:37.743Z [store-api] info POST /animal - {"animalId":2,"nome":"miau","tipo":"gato","proprietarioId":2}
+2023-03-04T02:13:40.742Z [store-api] info GET /animal
+2023-03-04T02:13:45.111Z [store-api] info GET /proprietario/:id
+2023-03-04T02:13:49.063Z [store-api] info GET /animal/:id
+2023-03-04T02:13:55.880Z [store-api] info DELETE /animal
+2023-03-04T02:13:58.749Z [store-api] info GET /animal
+2023-03-04T02:15:40.389Z [store-api] info GET /animal
+2023-03-04T02:15:47.334Z [store-api] info POST /servico - {"servicoId":1,"descricao":"aaa","valor":15,"animalId":2}
+2023-03-04T02:16:49.016Z [store-api] info PUT /servico - {"servicoId":1,"descricao":"bbb","valor":150,"animalId":2}
+2023-03-04T02:16:57.358Z [store-api] info GET /servico
+2023-03-04T02:17:14.911Z [store-api] info GET /servico/:id
+2023-03-04T02:17:21.453Z [store-api] info DELETE /servico/:id
+2023-03-04T02:17:36.512Z [store-api] info POST /servico - {"servicoId":2,"descricao":"aaa","valor":15,"animalId":2}
+2023-03-04T02:17:43.027Z [store-api] info GET /servico
+2023-03-04T02:17:51.720Z [store-api] info GET /servico/:id
+2023-03-04T02:17:59.097Z [store-api] info DELETE /servico/:id
+2023-03-04T02:18:17.044Z [store-api] info POST /servico - {"servicoId":3,"descricao":"aaa","valor":15,"animalId":2}
+2023-03-04T02:18:30.272Z [store-api] info GET /animal
+2023-03-04T02:18:35.792Z [store-api] info DELETE /animal
+2023-03-04T02:21:33.510Z [store-api] info GET /servico
+2023-03-04T02:23:21.700Z [store-api] info GET /servico
+2023-03-04T02:24:51.406Z [store-api] info GET /proprietario
+2023-03-04T02:24:56.507Z [store-api] info DELETE /owner
+2023-03-04T02:25:09.465Z [store-api] info POST /proprietario - {"proprietarioId":3,"nome":"joao","telefone":"132"}
+2023-03-04T02:25:16.324Z [store-api] error POST  - Cannot add or update a child row: a foreign key constraint fails (`petshop`.`animais`, CONSTRAINT `animais_ibfk_1` FOREIGN KEY (`proprietario_id`) REFERENCES `proprietarios` (`proprietario_id`) ON DELETE SET NULL ON UPDATE CASCADE)
+2023-03-04T02:25:21.496Z [store-api] info POST /animal - {"animalId":4,"nome":"miau","tipo":"gato","proprietarioId":3}
+2023-03-04T02:25:41.034Z [store-api] info POST /servico - {"servicoId":1,"descricao":"aaa","valor":15,"animalId":4}
+2023-03-04T02:25:56.739Z [store-api] info GET /servico
+2023-03-04T02:26:00.896Z [store-api] info GET /servico
+2023-03-04T02:26:13.257Z [store-api] info GET /servico
+2023-03-04T02:26:25.267Z [store-api] info POST /proprietario - {"proprietarioId":4,"nome":"rrr","telefone":"132"}
+2023-03-04T02:26:35.944Z [store-api] info POST /animal - {"animalId":5,"nome":"miau","tipo":"ddd","proprietarioId":3}
+2023-03-04T02:26:40.545Z [store-api] info POST /animal - {"animalId":6,"nome":"miau","tipo":"ddd","proprietarioId":4}
+2023-03-04T02:26:54.707Z [store-api] info POST /servico - {"servicoId":2,"descricao":"xxxxx","valor":1445,"animalId":6}
+2023-03-04T02:27:08.817Z [store-api] info GET /servico
+2023-03-04T02:27:13.205Z [store-api] info GET /servico
+2023-03-04T02:27:16.509Z [store-api] info GET /servico
+2023-03-04T13:46:38.576Z [store-api] info POST /post/ - {"titulo":"titulo","conteudo":"content","comentarios":[{"nome":"nome","conteudo":"conteudo"}]}
+2023-03-04T13:52:01.609Z [store-api] info POST /post/ - {"titulo":"titulo2","conteudo":"content2","comentarios":[{"nome":"nome2","conteudo":"wwwasfsadfasfsafsf"}]}
+2023-03-04T13:52:43.665Z [store-api] info GET /post/ 
+2023-03-04T13:52:56.490Z [store-api] error GET  - Cast to ObjectId failed for value "2" (type string) at path "_id" for model "Post"
+2023-03-04T13:53:12.878Z [store-api] info GET /product/64034d00b15d952fc0ff4d91
+2023-03-04T13:55:15.877Z [store-api] info POST /post/ - {"titulo":"titulo22","conteudo":"content22"}
+2023-03-04T13:56:36.008Z [store-api] info GET /post/ 
+2023-03-04T13:58:03.688Z [store-api] error POST  - Post ID e Comentário são obrigatórios!
+2023-03-04T14:01:08.104Z [store-api] error POST  - Post ID e Comentário são obrigatórios!
+2023-03-04T14:03:21.597Z [store-api] error POST  - Post ID e Comentário são obrigatórios!
+2023-03-04T14:03:39.861Z [store-api] error POST  - Post ID e Comentário são obrigatórios!
+2023-03-04T14:03:51.723Z [store-api] error POST  - Post ID e Comentário são obrigatórios!
+2023-03-04T14:05:25.160Z [store-api] error POST  - Post ID e Comentário são obrigatórios!
+2023-03-04T14:06:15.819Z [store-api] info POST /post/comentario 64034dc3b15d952fc0ff4d99 - [{"nome":"nome","conteudo":"wwwwwwwwwww"}]
+2023-03-04T14:06:24.165Z [store-api] info GET /post/ 
+2023-03-04T14:08:36.816Z [store-api] info GET /animal
+2023-03-04T14:13:08.660Z [store-api] info GET /proprietario
+2023-03-04T14:13:16.642Z [store-api] info GET /animal
+2023-03-04T14:13:24.836Z [store-api] info GET /servico
+2023-03-04T14:14:49.217Z [store-api] info GET /servico
+2023-03-04T14:16:51.613Z [store-api] error POST  - Descricao, Valor e Animal ID
+2023-03-04T14:17:35.363Z [store-api] info POST /servico - {"servicoId":10,"descricao":"Consulta","valor":200,"animalId":5}
+2023-03-04T14:17:55.332Z [store-api] info GET /servico
+2023-03-04T14:18:25.874Z [store-api] info GET /servico
+2023-03-04T14:18:47.701Z [store-api] info GET /servico/:id
+2023-03-04T14:18:58.796Z [store-api] info GET /servico/:id
+2023-03-04T14:19:35.450Z [store-api] info GET /proprietario
+2023-03-04T14:19:43.036Z [store-api] info GET /animal
+2023-03-04T14:20:02.960Z [store-api] info GET /servico/:id
+2023-03-04T14:20:51.245Z [store-api] info GET /proprietario
+2023-03-04T14:23:49.523Z [store-api] info GET /servico
+2023-03-04T14:24:30.426Z [store-api] info GET /servico
+2023-03-04T14:24:44.635Z [store-api] info GET /servico
